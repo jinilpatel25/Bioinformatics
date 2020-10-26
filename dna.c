@@ -6,9 +6,8 @@
               specified sample.  The formatted DNA
               sequence file is a txt file (threes samples
               are provided in the Resource Files folder).
- Author:			Jinil Manish Patel and Aarushi Mehra
- CS Accounts:	a1a1 and b2b2
- Date:				October 2019
+ Author:	Jinil Manish Patel and Aarushi Mehra
+ Date: October 2019
  */
 
  /******************************************************************
