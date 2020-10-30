@@ -9,20 +9,7 @@
  Author:      Jinil Manish Patel and Aarushi Mehra
  Date:        October 2019
  */
-
- /******************************************************************
-  PLEASE EDIT THIS FILE
-
-  You need to complete the analyze_segments and calculate_score
-  functions.
-
-  You need to understand the entire program
-
-  Comments that start with // should be replaced with code
-  Comments that are surrounded by * are hints
-  ******************************************************************/
-
-  /* Preprocessor directives */
+/* Preprocessor directives */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
